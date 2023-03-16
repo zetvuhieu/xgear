@@ -1,0 +1,141 @@
+.footer {
+    margin-top: -160px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid rgb(225, 210, 210);
+    background-color: rgb(242, 245, 246);
+}
+
+.footer_wall {
+    padding: 12px 0;
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_column {
+    width: 219.3px;
+    height: 324.95px;
+}
+
+.footer_introduce {
+    padding: 8px 0;
+}
+
+.introduce_content {
+    font-size: 1.5rem;
+}
+
+.h12 {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.footer_list_info {
+    margin-top: 8px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.footer_item_info {
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 0.6cm;
+}
+
+.footer_item_info:hover {
+    color: rgb(36, 155, 240);
+}
+
+.time_work {
+    padding: 8px 0;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.info_time {
+    margin-top: 8px;
+    width: 219.3px;
+}
+
+.time_item_info {
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 0.6cm;
+}
+
+.footer_contact {
+    padding: 8px 0;
+}
+
+.info_contact{
+    margin-top: 8px;
+    width: 219.3px;
+    
+}
+
+.item_contact{
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 0.6cm;
+} 
+
+.hotline {
+    margin-top: 8px;
+}
+
+.contact_phone{
+    cursor: pointer;
+}
+
+.item_contact {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(148, 75, 44);
+}
+
+.item_contact:hover {
+    color: rgb(0, 0, 0);
+}
+
+.item_contact_space {
+    font-size: 1.2rem;
+}
+
+.h12_location {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.footer_location {
+    display: flex;
+    padding: 8px 0;
+}
+
+.location_item {
+    font-size: 1.3rem;
+    margin-left: 15px;
+}
+
+.footer_social {
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon_social {
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.icon_social_item {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+
+.footer_certificate {
+    margin-top: 8px;
+}
